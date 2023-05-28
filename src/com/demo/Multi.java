@@ -19,7 +19,7 @@ public class Multi {
 		a=70;
 		a=80;
 		System.out.println("Multiplication :"+(a*b));
-		// added from Nilesh
+		// added from Nilesh --This is conflit example
 		a=50;
 		a=60;
 		System.out.println("Multiplication :"+(a*b));
