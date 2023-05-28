@@ -7,6 +7,10 @@ public class Multi {
 		int b =20;
 		
 		System.out.println("Multiplication :"+(a*b));
+		
+		a=30;
+		a=40;
+		System.out.println("Multiplication :"+(a*b));
 	}
 
 }
